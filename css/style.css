@@ -1,0 +1,141 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header ul{
+	background: #212529;
+	height: 100px;
+	line-height: 100px;
+}
+.header li{
+	display: inline-block;
+	text-align: center;
+}
+.header .right a{
+	padding: 8px;
+	font-size: 18px;
+}
+.header .fa-bars{
+	margin-left: 10px;
+	color: #f5f6fa;
+}
+.header .right .fa-search {
+	color: #f5f6fa
+}
+.header .right .fa-shopping-bag {
+	color: #f5f6fa
+}
+.header .right .fa-user-alt {
+	color: #f5f6fa
+}
+.header .fa-bars{
+	font-size: 32px;
+	margin-left: 40px;
+	margin-right: 465px;
+}
+.header .right{
+	margin-left: 465px
+}
+.header .img{
+}
+.body .above{
+	height: 300px; 
+	text-align: center;
+  line-height: 300px;
+	font-size: 30px;
+}
+h1{
+	font-family: "Faktum-XCon", sans-serif;
+}
+.body{
+	margin-left: 30px;
+	margin-right: 30px;
+}
+.below-1 .left{
+	float: left;
+	margin-right: 40px
+}
+.below-2{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.below-2 .left{
+	float: right;
+}
+.body .right .coll {
+	margin-bottom: 80px;
+	font-size: 20px;
+}
+.body .right .gorila{
+	font-size: 45px;
+	margin-bottom: 40px;
+}
+.body .right .gorila:hover{
+	text-decoration: underline;
+}
+.body .right .cot{
+	font-size: 20px;
+}
+.body .right .date{
+	margin-top: 80px;
+	font-size: 20px;
+}
+.footer {
+	background: #f8f9fa;
+}
+.footer .footer-above .container{
+	display: grid;
+	grid-template-columns: auto auto auto auto auto;
+	margin-left: 100px;
+	margin-bottom: 30px;
+}
+.footer .footer-above .container h3{
+	margin: 20px 0px;
+	font-size: 14px;
+	font-family: "TradeGothic", sans-serif;
+}
+.footer .footer-above .container p{
+	margin-bottom: 5px;
+	font-size: 14px;
+	font-family: "TradeGothic", sans-serif;
+}
+.footer .footer-below {
+	background: #212529;
+	display: grid;
+	grid-template-columns: 185px 185px 185px 185px 370px;
+	padding-left: 100px;
+	color: #fff;
+	padding-right: 100px;
+}
+.footer .footer-below li{
+	list-style: none;
+	font-family: "TradeGothic", sans-serif;
+	font-size: 13px;
+	padding: 3px 0;
+}
+.footer .footer-below h3{
+	font-family: "TradeGothic", sans-serif;
+	font-size: 15px;
+	margin: 30px 0px 10px 0;
+}
+.footer .footer-below {
+	padding-bottom: 50px;
+}
+.footer .footer-below .item2 input[type='text']{
+	padding: 5px;
+	width: 100%;
+	margin-top: 20px;
+}
+.footer .footer-below .item2 input[type='submit']{
+	padding: 10px 20px;
+	background: #fff;
+	margin-top: 5px;
+}
+.footer .footer-st p{
+	color: #000;
+	font-family: "TradeGothic", sans-serif;
+	float: right;
+	margin: 20px 0;
+	font-size: 12px;
+}
+
